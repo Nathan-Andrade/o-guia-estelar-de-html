@@ -60,7 +60,7 @@
 -   [Hyperlinks](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/03-links/1.hyperlinks.html)
 -   [Conteúdo-a-elemento](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/03-links/2.conteudo-a-element.html)
 -   [Urls-Caminho](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/03-links/3.urls-caminho.html)
--   Navegando por diretórios](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/03-links/4.navegando-por-diretorios.html)
+-   [Navegando por diretórios](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/03-links/4.navegando-por-diretorios.html)
 -   [Caminho Absoluto Relativo](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/03-links/5.caminhoAbsoluto-relativo.html)
 -   [Projeto](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/tree/master/03-links/Projeto)
 
