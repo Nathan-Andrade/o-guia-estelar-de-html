@@ -78,11 +78,13 @@
 
 <details>
   <summary>Cabeçalho</summary>
+    
 -   [Head](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/05-cabe%C3%A7alho/1.head.html)
 -   [Meta](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/05-cabe%C3%A7alho/2.meta.html)
 -   [Favicon](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/05-cabe%C3%A7alho/3.favicon.html)
 -   [Meta-SEO](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/05-cabe%C3%A7alho/4.meta-seo.html)
 -   [Meta-Social](https://github.com/Nathan-Andrade/o-guia-estelar-de-html/blob/master/05-cabe%C3%A7alho/5.meta-social.html)
+
 </details>
 
 
